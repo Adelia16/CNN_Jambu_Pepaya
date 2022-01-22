@@ -1,2 +1,2 @@
-# cbir-coba
+# Klasifikasi CNN
  Kecerdasan Buatan B
